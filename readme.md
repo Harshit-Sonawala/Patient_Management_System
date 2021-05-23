@@ -19,3 +19,15 @@ _To test it out, run the PMS.exe from the dist folder. (No installation required
 * Matplotlib for the graph
 * Numpy for the graph
 * Converted to exe using PyInstaller
+
+- - - -
+
+![screenshot1](https://github.com/Harshit-Sonawala/simple_img_to_pdf/blob/master/screenshots/ss1.jpg)  
+
+![screenshot2](https://github.com/Harshit-Sonawala/simple_img_to_pdf/blob/master/screenshots/ss2.jpg)  
+
+![screenshot3](https://github.com/Harshit-Sonawala/simple_img_to_pdf/blob/master/screenshots/ss3.jpg)  
+
+![screenshot4](https://github.com/Harshit-Sonawala/simple_img_to_pdf/blob/master/screenshots/ss4.jpg)  
+
+![screenshot5](https://github.com/Harshit-Sonawala/simple_img_to_pdf/blob/master/screenshots/ss5.jpg)  
