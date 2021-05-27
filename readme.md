@@ -6,7 +6,7 @@ SEIT - Roll No. 70 - Meet Chudasama
 
 - - - -
 
-A simple and user-friendly Desktop App created using Python as a miniproject for the Python Miniproject 1A Submission.  
+A simple and user-friendly Desktop App created using Python as a miniproject for the Python Miniproject 1A Submission - KJSIEIT BEIT Semester 4.  
 
 It allows to load the patient records from the excel file and add/delete patient details, edit the table data, search for patient records, generate analytics and more.  
 
