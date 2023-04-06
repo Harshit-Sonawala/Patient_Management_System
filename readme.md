@@ -1,12 +1,8 @@
 # Patient Management System #
 
-### Contributors: ###
-SEIT - Roll No. 64 - Harshit Sonawala  
-SEIT - Roll No. 70 - Meet Chudasama  
-
 - - - -
 
-A simple and user-friendly Desktop App created using Python as a miniproject for the Python Miniproject 1-B Submission - KJSIEIT BEIT Semester 4.  
+A simple and user-friendly Desktop App created using Python as a course project.  
 
 It allows to load the patient records from the excel file and add/delete patient details, edit the table data, search for patient records, generate analytics and more.  
 
